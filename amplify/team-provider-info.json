@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-groshop-staging-142934-authRole",
+      "UnauthRoleArn": "arn:aws:iam::735945167171:role/amplify-groshop-staging-142934-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::735945167171:role/amplify-groshop-staging-142934-authRole",
+      "Region": "ap-southeast-1",
+      "DeploymentBucketName": "amplify-groshop-staging-142934-deployment",
+      "UnauthRoleName": "amplify-groshop-staging-142934-unauthRole",
+      "StackName": "amplify-groshop-staging-142934",
+      "StackId": "arn:aws:cloudformation:ap-southeast-1:735945167171:stack/amplify-groshop-staging-142934/a29a8470-c72b-11ed-8d83-02a39fb72df2",
+      "AmplifyAppId": "dqtzmhrcuu0u1"
+    }
+  }
+}
